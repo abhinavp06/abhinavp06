@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Projects on my mind:
+- "nyn" pattern matching algorithm
+- WiFi administration system
+- basic 2D graphics engine
+- simulate atoms
+- basic physics engine
+- music visualizer
+- beep communication
+- reliable file uploader
+- toy kafka
+
+
+I keep adding projects to this list. I do not know anything.
