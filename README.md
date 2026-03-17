@@ -23,8 +23,12 @@ Projects on my mind:
 - basic physics engine
 - music visualizer
 - beep communication
+- audio compression algorithm
 - reliable file uploader
 - toy kafka
+- load testing tool
+- url shortener using golang
+- event orchestrator using golang & kafka
 
 
 I keep adding projects to this list. I do not know anything.
