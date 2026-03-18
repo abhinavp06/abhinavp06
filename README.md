@@ -21,6 +21,7 @@ Projects on my mind:
 - basic 2D graphics engine
 - simulate atoms
 - basic physics engine
+- smart watch os health features replication
 - music visualizer
 - beep communication
 - audio compression algorithm
