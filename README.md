@@ -30,6 +30,7 @@ Projects on my mind:
 - load testing tool
 - url shortener using golang
 - event orchestrator using golang & kafka
+- context based agentic development architecture using clickhouse
 
 
 I keep adding projects to this list. I do not know anything.
