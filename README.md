@@ -16,9 +16,8 @@ Repository guide (do not expect consistency):
 4. audio-tools-and-effects - [Link](https://github.com/abhinavp06/audio-tools-and-effects)
    - Implementing cool tools and effects related to Audio
    - Playing around
-5. cryptic-phrases - [Link](https://github.com/abhinavp06/cryptic-phrases)
-   - Playing around with encoding/decoding, encryption/decryption
-   - I want to try making my own audio codec
+5. experimentz - [Link](https://github.com/abhinavp06/experimentz)
+   - random experiments
 6. physics-engine - [Link](https://github.com/abhinavp06/physics-engine)
    - Trying out 2D,3D graphics
    - 2D, 3D physics engine
@@ -27,7 +26,7 @@ I keep adding projects to this list when I think of something.
 
 Projects on my mind:
 
-- "nyn" pattern matching algorithm - [Link](https://github.com/abhinavp06/cryptic-phrases/tree/master/nyn_pattern_matching)
+- "nyn" pattern matching algorithm - [Link](https://github.com/abhinavp06/experimentz/tree/master/STRINGS/nyn_pattern_matching)
 - WiFi administration system
 - basic 2D graphics engine
 - simulate atoms
@@ -43,5 +42,6 @@ Projects on my mind:
 - event orchestrator using golang & kafka
 - context based agentic development architecture using clickhouse
 - lift algorithm
+- habit tracker
 
 ॐ
