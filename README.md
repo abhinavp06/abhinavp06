@@ -1,4 +1,6 @@
-Repository guide (do not expect consistency):
+ॐ
+
+<!-- Repository guide (do not expect consistency):
 
 1. tpw - [Link](https://github.com/abhinavp06/tpw)
    - My personal blog
@@ -45,3 +47,4 @@ Projects on my mind:
 - habit tracker
 
 ॐ
+-->
