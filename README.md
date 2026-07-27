@@ -1,7 +1,8 @@
 ॐ
 
 TODO:
-1. Replicate my Pioneer DDJ RB's mixer.
+1. Spectrum Analyzer
+2. Replicate my Pioneer DDJ RB's mixer.
 	- Volume sliders
 	- Filters
 	- Some effects
