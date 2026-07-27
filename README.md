@@ -1,5 +1,12 @@
 ॐ
 
+TODO:
+1. Replicate my Pioneer DDJ RB's mixer.
+	- Volume sliders
+	- Filters
+	- Some effects
+	- Load audio and output audio
+
 <!-- Repository guide (do not expect consistency):
 
 1. tpw - [Link](https://github.com/abhinavp06/tpw)
