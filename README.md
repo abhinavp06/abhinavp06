@@ -7,6 +7,7 @@ TODO:
 	- Filters
 	- Some effects
 	- Load audio and output audio
+3. Local media server
 
 <!-- Repository guide (do not expect consistency):
 
