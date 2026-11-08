@@ -1,6 +1,6 @@
 ॐ
 
-TODO:
+<!-- TODO:
 1. Spectrum Analyzer
 2. Replicate my Pioneer DDJ RB's mixer - [orkestra](https://github.com/abhinavp06/orkestra)
 	- Volume sliders
@@ -8,6 +8,7 @@ TODO:
 	- Some effects
 	- Load audio and output audio
 3. Local media server - [hoardor](https://github.com/abhinavp06/hoardor)
+-->
 
 <!-- Repository guide (do not expect consistency):
 
